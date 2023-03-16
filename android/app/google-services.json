@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016236330620",
+    "project_id": "livewell-a165e",
+    "storage_bucket": "livewell-a165e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016236330620:android:9639928a17965b2ed903f9",
+        "android_client_info": {
+          "package_name": "com.example.abc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016236330620-qcgnkt40ojejon9stq6qk1dg7umv74t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApf8R9EjWo1SnCVPXzPoA0joJ7CLDsN8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016236330620-qcgnkt40ojejon9stq6qk1dg7umv74t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
