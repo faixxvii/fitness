@@ -5,7 +5,12 @@ import 'Login/OTPpage.dart';
 import 'query/insert.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
-void main() async{
+//import 'Exercise/exer.dart';
+import 'Exercise/you.dart';
+//import 'Exercise/testex.dart';
+//import 'Exercise/t.dart';
+
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   runApp(const MyApp2());
@@ -22,7 +27,7 @@ class MyApp2 extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: Insert(),
+      home: MyApp(),
     );
   }
 }
